@@ -9,6 +9,7 @@ Con este programa, ponemos 100 beepers en un lugar determinado.
 ------------------------
 Palabras claves de Python en este programa:
 def: definir función.
+for - in: por cada - en
 """
 
 def main():
@@ -20,7 +21,6 @@ def main():
         poner_beeper()
     #Esta linea ya no esta indentada, no se repetirá
     mover()
-
 
 # No te preocupes por este codigo, no debe modificarse.
 
