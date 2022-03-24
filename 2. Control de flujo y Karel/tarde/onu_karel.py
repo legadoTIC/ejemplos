@@ -42,6 +42,7 @@ def construir_casa():
     poner_tres()
     girar_180()
     mover_al_muro()
+    girar_a_la_izquierda()
 
 def mover_al_muro():
     while frente_sin_obstaculos():
