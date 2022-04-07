@@ -30,23 +30,23 @@ execution to asscoiate their behavior to the one particular Karel object located
 in a given world.
 """
 
-def move():
+def mover():
 	pass
 
 
-def turn_left():
+def girar_a_la_izquierda():
 	pass
 
 
-def put_beeper():
+def poner_beeper():
 	pass
 
 
-def pick_beeper():
+def recoger_beeper():
 	pass
 
 
-def front_is_clear():
+def frente_sin_obstaculos():
 	pass
 
 
@@ -70,7 +70,7 @@ def right_is_blocked():
 	pass
 
 
-def beepers_present():
+def beepers_presente():
 	pass
 
 
