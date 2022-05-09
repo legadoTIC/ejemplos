@@ -7,7 +7,7 @@ El primer programa de ejemplo para Karel, toca que karel tome el 'beeper'
 en frente suyo y lo ponga en el tope de la colina.
 (este es un comentario, no será leido por la computadora.)
 
-**NOTA: LAS FUNCIONES DE KAREL HAN SIDO TRADUCIDAS AL ESPAÑOL, ESTE CODIGO DEBE TRADUCIRSE AL INGLES PARA CORRER**
+**NOTA: LAS FUNCIONES DE KAREL PERTINENTES HAN SIDO TRADUCIDAS AL ESPAÑOL**
 ------------------------
 Palabras claves de Python en este programa:
 def: definir función.
