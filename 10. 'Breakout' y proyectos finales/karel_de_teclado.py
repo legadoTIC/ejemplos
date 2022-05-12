@@ -5,7 +5,7 @@ Archivo: karel_de_teclado.py
 
 Un programa que nos permite hacer que Karel se mueva a partir del teclado.
 """
-from Graphics import Canvas
+from graphics import Canvas
 
 # El tamaño del lienzo en el que vamos a trabajar en pixeles
 ANCHO_LIENZO = 500

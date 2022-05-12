@@ -5,7 +5,7 @@ Archivo: karel_de_teclado.py
 
 Un programa que nos permite hacer que Karel se mueva a partir del teclado.
 """
-from Graphics import Canvas
+from graphics import Canvas
 
 # El tamaño del lienzo en el que vamos a trabajar en pixeles
 ANCHO_LIENZO = 500
@@ -20,7 +20,7 @@ def main():
     Lienzo.set_canvas_title("Karel de Teclado")
 
     # Creamos a Karel, en la esquina superior izquierda
-    karel = Lienzo.create_image(0, 0, "images/karel.png")
+    karel = Lienzo.create_image(0, 0, "../images/karel.png")
     Lienzo.update()
 
     # Vamos consiguiendo los comandos que vengan del teclado y moviendo a Karel
