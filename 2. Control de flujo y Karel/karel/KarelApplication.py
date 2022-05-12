@@ -62,7 +62,7 @@ class KarelApplication(tk.Frame):
 
 	def set_dock_icon(self):
 		# make Karel dock icon image
-		img = tk.Image("photo", file="2. Control de flujo y Karel\karel\icon.gif")
+		img = tk.Image("photo", file="karel/icon.gif")
 		self.master.tk.call('wm', 'iconphoto', self.master._w, img)
 
 	def load_student_module(self):
