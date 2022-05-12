@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ce99323-a828-422c-8e02-06ddc997903a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10. 'Breakout' y proyectos finales/graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12. Proyecto FInal/graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Ciclos y Animacion/graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. 'Mouse' y Listas/graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. 'Breakout'/graphics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ejemplos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ejemplos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. 'Breakout' y proyectos finales/karel_de_teclado.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. 'Breakout' y proyectos finales/karel_de_teclado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8. 'Breakout'/karel_de_teclado.py" beforeDir="false" afterPath="$PROJECT_DIR$/8. 'Breakout'/karel_de_teclado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Funciones/graphics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +42,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/12. Proyecto FInal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5. Funciones" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\6. Ciclos y Animacion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\5. Funciones" />
       <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\12. Proyecto FInal" />
       <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\10. 'Breakout' y proyectos finales" />
       <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\8. 'Breakout'" />
       <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\7. 'Mouse' y Listas" />
-      <recent name="C:\Users\andre\Documents\repos\csbridge\ejemplos\2. Control de flujo y Karel" />
     </key>
   </component>
   <component name="RunManager" selected="Python.karel_de_teclado">
@@ -210,21 +201,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1652373895506">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom" timestamp="1652373953024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652373895506" />
-    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1652373895505">
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652373953024" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center" timestamp="1652373953024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652373895505" />
-    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1652373895505">
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652373953024" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left" timestamp="1652373953024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652373895505" />
-    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1652373895506">
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652373953024" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right" timestamp="1652373953024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652373895506" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652373953024" />
   </component>
 </project>
